@@ -9,7 +9,7 @@ import pickle
 import streamlit as st
 
 # Open the file in binary read mode and load the model
-with open(r'C:\Users\GODWIN\Downloads\trained_model.sav', 'rb') as file:
+with open('DApp/trained_model.sav', 'rb') as file:
     loaded_data = pickle.load(file)
 
 
