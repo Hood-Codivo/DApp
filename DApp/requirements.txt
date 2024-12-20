@@ -1,3 +1,2 @@
-NumPy==1.26.4
-pickle==3.12.4
-Streamlit==1.32.0
+numpy
+streamlit
